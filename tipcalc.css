@@ -38,11 +38,11 @@ p {
 }
 h1{
 
+    margin-top:70px;
     font-size: 65px;
     text-align:center;
     color: #1f80c9;
-    margin-top:50px;
-}
+   }
 #perc {
 
     color:#cd5c5c;
