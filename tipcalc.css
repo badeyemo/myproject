@@ -96,7 +96,7 @@ h1{
         width: 100%;
     }
 }
-@media (min-width: 720px) {
+/*@media (min-width: 720px) {
     #calculator {
         align: center;
         hieght: 100%;
@@ -109,6 +109,6 @@ h1{
         hieght: 100%;
         width: 100%;
     }
-}
+} */
 
 
