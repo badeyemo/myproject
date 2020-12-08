@@ -47,7 +47,7 @@ h1{
 
     color:#cd5c5c;
 }
-@media (min-width: 480px) {
+/*@media (min-width: 480px) {
     #calculator {
         align: center;
         hieght: 100%;
@@ -96,7 +96,7 @@ h1{
         width: 100%;
     }
 }
-/*@media (min-width: 720px) {
+@media (min-width: 720px) {
     #calculator {
         align: center;
         hieght: 100%;
